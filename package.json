@@ -1,7 +1,7 @@
 {
   "name": "@anikets/gatsby-plugin-facebook-pixel",
   "description": "Gatsby plugin to add facebook pixel onto a site",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "Gabe Barrientos",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
