@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-facebook-pixel",
+  "name": "@anikets/gatsby-plugin-facebook-pixel",
   "description": "Gatsby plugin to add facebook pixel onto a site",
   "version": "1.0.8",
   "author": "Gabe Barrientos",
