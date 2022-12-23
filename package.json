@@ -1,8 +1,8 @@
 {
   "name": "@aniket/gatsby-plugin-facebook-pixel",
   "description": "Gatsby plugin to add facebook pixel onto a site",
-  "version": "1.0.9",
-  "author": "Gabe Barrientos",
+  "version": "1.0.10",
+  "author": "Gabe Barrientos, Aniket Suryavanshi",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.14.0",
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gscopet/gatsby-plugin-facebook-pixel"
+    "url": "https://github.com/anikets/gatsby-plugin-facebook-pixel"
   }
 }

@@ -2,9 +2,11 @@
 
 Easily add Facebook Pixel to your Gatsby site. At this time, 'ViewContent' event is triggered via onRouteUpdate.
 
+'ViewContent' can be disabled by setting `disableViewContent` as `true` in gatsby-config.js plugin options.
+
 ## Install
 
-`npm install --save gatsby-plugin-facebook-pixel`
+`npm i -S @aniket/gatsby-plugin-facebook-pixel`
 
 ## How to use
 
@@ -15,6 +17,7 @@ plugins: [
     resolve: `gatsby-plugin-facebook-pixel`,
     options: {
       pixelId: "pixel id here",
+      disableViewContent: false,
     },
   },
 ];
